@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+body{
+	background: 100%;
+	background-color:ghostwhite;
+}
+.logo{
+
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	background-color: white;
+
+}
+/*input styling*/
+input{
+	width: 400px;
+	padding: 15px 40px;
+    border-radius: 30px;
+    text-align: center;
+    border: 1px solid #ccc;
+    background: url(https://www.iconpacks.net/icons/1/free-microphone-icon-342-thumb.png)no-repeat;
+    background-size: 30px;
+    background-position:right 10px ;
+    background-margin: 50%;
+
+}  
+
+
+input:focus{
+	box-shadow: 2px 3px 4px 2px #ccc;
+	outline: none;
+}
+
+input-search{
+	padding-top: 50px;
+	width: 50px;
+}
+button{
+	color: black;
+    padding: 05px;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    margin: 25px;
+    background:#00ff95;
+}
+
+
+i{
+	color: white;
+    padding: 03px;
+    width: 32px;
+    height: 35px;
+    border-radius: 8px;
+    margin: 25px;
+}
+.ytube{
+	background: red;	
+}
+.ytube:hover{
+	background:#002bff8f;
+}
+.insta{
+    background: #f70575fa;
+}
+.insta:hover{
+	background: #ff003b;
+}
+.fb{
+	background: #002bff8f;
+}
+.fb:hover{
+	background: #ff003b;
+}
+
